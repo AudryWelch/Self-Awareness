@@ -1,0 +1,127 @@
+<div id="eg-likert-self-assessment" style="max-width:900px; margin:0 auto; color:rgba(0,43,89,1); font-size:17pt; font-family:Arial, sans-serif;">
+
+  <div style='background:rgba(0,103,160,1); color:#fff; border-radius:14px; padding:18px 20px; margin:10px 0 14px; text-align:center; box-shadow:0 2px 6px rgba(0,0,0,0.1); font-family:"Garamond","EB Garamond",serif;'>
+    <h3 style="margin:0; font-size:20pt; color:#fff;"><strong>Self-Awareness Self-Assessment:</strong></h3>
+    <h2 style="margin:8px 0 0; font-size:18pt; color:#fff;">How would you rate your own self-awareness?</h2>
+  </div>
+
+  <div style="background:rgba(250,249,245,1); border:1px solid rgba(0,0,0,0.06); border-radius:16px; padding:20px 22px; margin:20px 0;">
+    <p style="line-height:1.45; margin:0 0 8px; font-size:12pt;">
+      <strong>Instructions:</strong> Take a moment to reflect on the following prompts. Rate yourself on a scale of 0-10 (0 = Never a practice, 10 = Always a practice).
+    </p>
+    <p style="line-height:1.45; margin:0; font-size:12pt;">
+      There are no wrong answers! This is an opportunity to reflect on your own practices.
+    </p>
+  </div>
+
+  <table style="width:100%; border-collapse:separate; border-spacing:0 10px; background:rgba(250,249,245,1); border:1px solid rgba(0,0,0,0.06); border-radius:16px; overflow:hidden;">
+    <thead style='font-family:"Garamond","EB Garamond",serif;'>
+      <tr style="background:rgba(224,236,243,1); color:rgba(0,43,89,1);">
+        <th style="text-align:left; padding:20px; font-weight:600; font-size:16pt;">Awareness of your strengths:</th>
+        <th style="text-align:center; padding:20px; font-weight:600; font-size:16pt;">
+          0-10 scale
+          <p style="margin:4px 0 0; font-weight:400; font-size:12pt; color:rgba(0,43,89,1);">0 = Never a practice, 10 = Always a practice</p>
+        </th>
+      </tr>
+    </thead>
+    <tbody style="font-size:12pt;">
+      <tr>
+        <td style="padding:14px 18px;">I am <em>aware</em> of my skills, passions, joys, and interests.</td>
+        <td style="text-align:center; padding:14px;">
+          <div style="width:85%; margin:0 auto; display:flex; justify-content:space-between; font-size:11pt;">
+            <span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span>
+          </div>
+          <input type="range" min="0" max="10" value="5" step="1" style="width:85%; height:24px; cursor:pointer; -webkit-appearance:auto; appearance:auto;">
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:14px 18px;">I <em>share</em> my skills, passions, joys, and interests with others.</td>
+        <td style="text-align:center; padding:14px;">
+          <div style="width:85%; margin:0 auto; display:flex; justify-content:space-between; font-size:11pt;">
+            <span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span>
+          </div>
+          <input type="range" min="0" max="10" value="5" step="1" style="width:85%; height:24px; cursor:pointer; -webkit-appearance:auto; appearance:auto;">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table style="width:100%; border-collapse:separate; border-spacing:0 10px; background:rgba(250,249,245,1); border:1px solid rgba(0,0,0,0.06); border-radius:16px; overflow:hidden; margin-top:16px;">
+    <thead style='font-family:"Garamond","EB Garamond",serif;'>
+      <tr style="background:rgba(224,236,243,1); color:rgba(0,43,89,1);">
+        <th style="text-align:left; padding:20px; font-weight:600; font-size:16pt;">Awareness of your challenges:</th>
+        <th style="text-align:center; padding:20px; font-weight:600; font-size:16pt;">
+          0-10 scale
+          <p style="margin:4px 0 0; font-weight:400; font-size:12pt; color:rgba(0,43,89,1);">0 = Never a practice, 10 = Always a practice</p>
+        </th>
+      </tr>
+    </thead>
+    <tbody style="font-size:12pt;">
+      <tr>
+        <td style="padding:14px 18px;">I am <em>aware</em> of my feelings, such as noticing when I’m feeling irritable.</td>
+        <td style="text-align:center; padding:14px;">
+          <div style="width:85%; margin:0 auto; display:flex; justify-content:space-between; font-size:11pt;">
+            <span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span>
+          </div>
+          <input type="range" min="0" max="10" value="5" step="1" style="width:85%; height:24px; cursor:pointer; -webkit-appearance:auto; appearance:auto;">
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:14px 18px;">I’m able to <em>notice</em> when I’m struggling and use tools that help me stay grounded.</td>
+        <td style="text-align:center; padding:14px;">
+          <div style="width:85%; margin:0 auto; display:flex; justify-content:space-between; font-size:11pt;">
+            <span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span>
+          </div>
+          <input type="range" min="0" max="10" value="5" step="1" style="width:85%; height:24px; cursor:pointer; -webkit-appearance:auto; appearance:auto;">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div id="eg-values-reflection-feelings" style="margin:12px auto; font-size:12pt;">
+    <div style="background:rgba(250,249,245,1); border:1px solid rgba(0,0,0,0.06); border-radius:16px; padding:14px 16px; line-height:1.45;">
+      <p style="margin:0 0 8px;">When feelings like irritability come up for you, what practices do you use to help yourself?</p>
+      <textarea id="eg-feelings-reflection-box" name="eg-feelings-reflection-box" rows="4" placeholder="Type your response here..." tabindex="0" style="width:100%; box-sizing:border-box; padding:12px; border:1px solid rgba(0,43,89,0.3); border-radius:10px; font-family:Arial, sans-serif; font-size:12pt; color:rgba(0,43,89,1); resize:vertical; background:#fff; pointer-events:auto; user-select:text;"></textarea>
+    </div>
+  </div>
+
+  <table style="width:100%; border-collapse:separate; border-spacing:0 10px; background:rgba(250,249,245,1); border:1px solid rgba(0,0,0,0.06); border-radius:16px; overflow:hidden; margin-top:16px;">
+    <thead style='font-family:"Garamond","EB Garamond",serif;'>
+      <tr style="background:rgba(224,236,243,1); color:rgba(0,43,89,1);">
+        <th style="text-align:left; padding:20px; font-weight:600; font-size:16pt;">Awareness of your values:</th>
+        <th style="text-align:center; padding:20px; font-weight:600; font-size:16pt;">
+          0-10 scale
+          <p style="margin:4px 0 0; font-weight:400; font-size:12pt; color:rgba(0,43,89,1);">0 = Never a practice, 10 = Always a practice</p>
+        </th>
+      </tr>
+    </thead>
+    <tbody style="font-size:12pt;">
+      <tr>
+        <td style="padding:14px 18px;">I am <em>aware</em> of my values and can easily communicate my values to others.</td>
+        <td style="text-align:center; padding:14px;">
+          <div style="width:85%; margin:0 auto; display:flex; justify-content:space-between; font-size:11pt;">
+            <span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span>
+          </div>
+          <input type="range" min="0" max="10" value="5" step="1" style="width:85%; height:24px; cursor:pointer; -webkit-appearance:auto; appearance:auto;">
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:14px 18px;">I <em>make sure</em> that the choices I make align with my values.</td>
+        <td style="text-align:center; padding:14px;">
+          <div style="width:85%; margin:0 auto; display:flex; justify-content:space-between; font-size:11pt;">
+            <span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span>
+          </div>
+          <input type="range" min="0" max="10" value="5" step="1" style="width:85%; height:24px; cursor:pointer; -webkit-appearance:auto; appearance:auto;">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div id="eg-values-reflection-values" style="margin:12px auto; font-size:12pt;">
+    <div style="background:rgba(250,249,245,1); border:1px solid rgba(0,0,0,0.06); border-radius:16px; padding:14px 16px; line-height:1.45;">
+      <p style="margin:0 0 8px;">Are there moments when it feels harder to make choices that align with your values? Are there moments when it feels easier?</p>
+      <textarea id="eg-values-reflection-box" name="eg-values-reflection-box" rows="4" placeholder="Type your response here..." tabindex="0" style="width:100%; box-sizing:border-box; padding:12px; border:1px solid rgba(0,43,89,0.3); border-radius:10px; font-family:Arial, sans-serif; font-size:12pt; color:rgba(0,43,89,1); resize:vertical; background:#fff; pointer-events:auto; user-select:text;"></textarea>
+    </div>
+  </div>
+
+</div>
